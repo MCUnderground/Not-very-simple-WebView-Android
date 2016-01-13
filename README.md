@@ -1,6 +1,9 @@
 # WebView Android
 Simple(not very) Webview for Android
 
+### Read all README.md you can find in project. You will need to follow steps for it to work.
+#### You will get errors on first project open. Just compile it and will work.
+
 ## Features:
 
 1. Background music.
