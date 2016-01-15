@@ -12,5 +12,6 @@ Simple(not very) Webview for Android
 4. Parse notifications.
 5. Swipe down to reload/refresh.
 6. Back Button dont quit application but goes back by page.
+3. Enabling Accessibility in Android settings will grand you with ChromeVox
 
 
