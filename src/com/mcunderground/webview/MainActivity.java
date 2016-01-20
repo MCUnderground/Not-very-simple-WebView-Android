@@ -28,7 +28,7 @@ public class MainActivity extends Activity
 		getWindow().requestFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.main);
 		Toast.makeText(getApplicationContext(), "Welcome!",
-					   Toast.LENGTH_LONG).show();
+					   Toast.LENGTH_SHORT).show();
 
 			// Adds music to app. Add music in raw folder and name it 
 			// bkgrdmsc to this code load it.	   
